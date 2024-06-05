@@ -1,0 +1,22 @@
+
+/* *{
+    text-align: center;
+} */
+
+#a0{
+    color: #FF0000;
+}
+#a1{
+    size: weight="200" height="200";
+    color:green;
+}
+.box{
+    border: 5px solid black;
+    color: green;
+    padding-left: 50px;
+    margin: 0px;
+    width: 100%;
+    height: 100%;
+    text-transform: uppercase;
+    display: flex;
+}
